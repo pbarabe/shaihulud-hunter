@@ -2,7 +2,9 @@
 
 ## About ##
 
-Uses [jq](https://jqlang.org/) to parse the [JSON file](./affected-packages.json) and then recursively `grep` each package name lock files find in the named directory.
+Searches for projects with dependencies that may have been compromised by [Shai-Hulud](https://www.cisa.gov/news-events/alerts/2025/09/23/widespread-supply-chain-compromise-impacting-npm-ecosystem).
+
+Uses [jq](https://jqlang.org/) to parse [affected-packages.json](./affected-packages.json) and then recursively `grep` each package name in lock files found in the named directory.
 
 The `affected-packages.json` file was created from the list of known, affected packages published by [socket.dev](https://socket.dev/blog/ongoing-supply-chain-attack-targets-crowdstrike-npm-packages).
 
