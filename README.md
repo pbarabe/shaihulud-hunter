@@ -2,7 +2,7 @@
 
 ## About ##
 
-Uses [jq](https://jqlang.org/) to parse the JSON file and then recursively `grep` each package name in the parent directory.
+Uses [jq](https://jqlang.org/) to parse the [JSON file](./affected-packages.json) and then recursively `grep` each package name in the parent directory.
 
 The `affected-packages.json` file was created from the list of known, affected packages published by [reversinglabs.com](https://www.reversinglabs.com/blog/shai-hulud-worm-npm).
 
