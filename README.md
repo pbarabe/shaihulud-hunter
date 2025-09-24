@@ -17,12 +17,19 @@ A [CSV version](./affected-packages.csv) of affected packages is also provided.
 
 ## Usage ##
 
-Copy this folder into a directory that should be scanned then run `./shaihulud-hunter.sh`
+```sh
+# Scan a named directory with package names extracted from affected-packages.json
+shaihulud-hunter.sh <directory> {affected-packages.json}
+
+# Test scan on files in the ./test/ folder
+shailulud-hunter.sh -t
+```
 
 
 ## Modification log ##
 
 23 Sep 2025 - Initial creation
+24 Sep 2025 - Refine logic to evaluate only package-lock.json, yarn.lock, and pnpm-lock.yaml files
 
 
 ## Additional Resources ##

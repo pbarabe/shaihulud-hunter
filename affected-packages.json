@@ -2202,40 +2202,40 @@
         "SHA1": "27ae0e090fb441ef2da0e955f66c4f434f1368a7"
     },
     {
-        "url": "https://secure.software/npm/packages/eslint-config-teselagen/6.1.8?__hstc=60854195.d77144ed969e9c1b645bb7162e87d187.1758662334324.1758662334324.1758664367478.2&amp;__hssc=60854195.1.1758664367478&amp;__hsfp=1592468853\neslint-config-teselagen",
-        "package_name": "6.1.8",
-        "version": "0ed8d9cad44182c5e0867c105fb1dcb4b559a87f",
-        "SHA1": null
+        "url": "https://secure.software/npm/packages/eslint-config-teselagen/6.1.8?__hstc=60854195.d77144ed969e9c1b645bb7162e87d187.1758662334324.1758662334324.1758664367478.2&amp;__hssc=60854195.1.1758664367478&amp;__hsfp=1592468853",
+        "package_name": "eslint-config-teselagen",
+        "version": "6.1.8",
+        "SHA1": "0ed8d9cad44182c5e0867c105fb1dcb4b559a87f"
     },
     {
-        "url": "https://secure.software/npm/packages/graphql-sequelize-teselagen/5.3.9?__hstc=60854195.d77144ed969e9c1b645bb7162e87d187.1758662334324.1758662334324.1758664367478.2&amp;__hssc=60854195.1.1758664367478&amp;__hsfp=1592468853\ngraphql-sequelize-teselagen",
-        "package_name": "5.3.9",
-        "version": "70e30ebb44489fca86d9ddc6f85c3cbb54f3bbbc",
-        "SHA1": null
+        "url": "https://secure.software/npm/packages/graphql-sequelize-teselagen/5.3.9?__hstc=60854195.d77144ed969e9c1b645bb7162e87d187.1758662334324.1758662334324.1758664367478.2&amp;__hssc=60854195.1.1758664367478&amp;__hsfp=1592468853",
+        "package_name": "graphql-sequelize-teselagen",
+        "version": "5.3.9",
+        "SHA1": "70e30ebb44489fca86d9ddc6f85c3cbb54f3bbbc"
     },
     {
-        "url": "https://secure.software/npm/packages/ove-auto-annotate/0.0.10?__hstc=60854195.d77144ed969e9c1b645bb7162e87d187.1758662334324.1758662334324.1758664367478.2&amp;__hssc=60854195.1.1758664367478&amp;__hsfp=1592468853\nove-auto-annotate",
-        "package_name": "0.0.10",
-        "version": "f1db81c622e9264c7808010fd2eaa585f8766335",
-        "SHA1": null
+        "url": "https://secure.software/npm/packages/ove-auto-annotate/0.0.10?__hstc=60854195.d77144ed969e9c1b645bb7162e87d187.1758662334324.1758662334324.1758664367478.2&amp;__hssc=60854195.1.1758664367478&amp;__hsfp=1592468853",
+        "package_name": "ove-auto-annotate",
+        "version": "0.0.10",
+        "SHA1": "f1db81c622e9264c7808010fd2eaa585f8766335"
     },
     {
-        "url": "https://secure.software/npm/packages/tg-redbird/1.3.2?__hstc=60854195.d77144ed969e9c1b645bb7162e87d187.1758662334324.1758662334324.1758664367478.2&amp;__hssc=60854195.1.1758664367478&amp;__hsfp=1592468853\ntg-redbird",
-        "package_name": "1.3.2",
-        "version": "99db340e5444f15bcafe0888122e12776ee353be",
-        "SHA1": null
+        "url": "https://secure.software/npm/packages/tg-redbird/1.3.2?__hstc=60854195.d77144ed969e9c1b645bb7162e87d187.1758662334324.1758662334324.1758664367478.2&amp;__hssc=60854195.1.1758664367478&amp;__hsfp=1592468853",
+        "package_name": "tg-redbird",
+        "version": "1.3.2",
+        "SHA1": "99db340e5444f15bcafe0888122e12776ee353be"
     },
     {
-        "url": "https://secure.software/npm/packages/ve-bamreader/0.2.7?__hstc=60854195.d77144ed969e9c1b645bb7162e87d187.1758662334324.1758662334324.1758664367478.2&amp;__hssc=60854195.1.1758664367478&amp;__hsfp=1592468853\nve-bamreader",
-        "package_name": "0.2.7",
-        "version": "331c874a34747ac27a0caa5469474f552b0189f3",
-        "SHA1": null
+        "url": "https://secure.software/npm/packages/ve-bamreader/0.2.7?__hstc=60854195.d77144ed969e9c1b645bb7162e87d187.1758662334324.1758662334324.1758664367478.2&amp;__hssc=60854195.1.1758664367478&amp;__hsfp=1592468853",
+        "package_name": "ve-bamreader",
+        "version": "0.2.7",
+        "SHA1": "331c874a34747ac27a0caa5469474f552b0189f3"
     },
     {
-        "url": "https://secure.software/npm/packages/ve-editor/1.0.2?__hstc=60854195.d77144ed969e9c1b645bb7162e87d187.1758662334324.1758662334324.1758664367478.2&amp;__hssc=60854195.1.1758664367478&amp;__hsfp=1592468853\nve-editor",
-        "package_name": "1.0.2",
-        "version": "899c7632dfc1db4917416ab42a3b66c220728b20",
-        "SHA1": null
+        "url": "https://secure.software/npm/packages/ve-editor/1.0.2?__hstc=60854195.d77144ed969e9c1b645bb7162e87d187.1758662334324.1758662334324.1758664367478.2&amp;__hssc=60854195.1.1758664367478&amp;__hsfp=1592468853",
+        "package_name": "ve-editor",
+        "version": "1.0.2",
+        "SHA1": "899c7632dfc1db4917416ab42a3b66c220728b20"
     },
     {
         "url": "https://secure.software/npm/packages/@operato/board/9.0.47?__hstc=60854195.d77144ed969e9c1b645bb7162e87d187.1758662334324.1758662334324.1758664367478.2&amp;__hssc=60854195.1.1758664367478&amp;__hsfp=1592468853",
