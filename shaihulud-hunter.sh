@@ -52,7 +52,7 @@ if [ "$1" == "-t" ]; then
 fi
 
 # Extract package names from the JSON file
-package_names=$(jq -r '.[].package_name' "$packages_file")
+package_names=$(jq -r '.[].package' "$packages_file")
 
 # Create a temporary file to store the results
 temp_file=$(mktemp)

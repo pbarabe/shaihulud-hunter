@@ -4,9 +4,7 @@
 
 Uses [jq](https://jqlang.org/) to parse the [JSON file](./affected-packages.json) and then recursively `grep` each package name lock files find in the named directory.
 
-The `affected-packages.json` file was created from the list of known, affected packages published by [reversinglabs.com](https://www.reversinglabs.com/blog/shai-hulud-worm-npm).
-
-A [CSV version](./affected-packages.csv) of affected packages is also provided.
+The `affected-packages.json` file was created from the list of known, affected packages published by [socket.dev](https://socket.dev/blog/ongoing-supply-chain-attack-targets-crowdstrike-npm-packages).
 
 
 ## Prerequites ##
@@ -28,8 +26,12 @@ shailulud-hunter.sh -t
 
 ## Modification log ##
 
-23 Sep 2025 - Initial creation  
-24 Sep 2025 - Refine logic to evaluate only package-lock.json, yarn.lock, and pnpm-lock.yaml files  
+23 Sep 2025
+- Initial creation  
+
+24 Sep 2025
+- Refine logic to evaluate only package-lock.json, yarn.lock, and pnpm-lock.yaml files  
+- Replace affected-packages.json contents with more up-to-date list grabbed from https://socket.dev/
 
 
 ## Additional Resources ##
