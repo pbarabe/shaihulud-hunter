@@ -73,7 +73,8 @@ if [ -s "$temp_file" ]; then
     echo "Scan results:"
     cat "$temp_file"
 else
-    echo "No packages found in any package-lock.json files."
+    echo ""
+    echo "No packages found in any package-lock.json, yarn.lock, or pnpm-lock.yaml files."
 fi
 
 # Clean up
