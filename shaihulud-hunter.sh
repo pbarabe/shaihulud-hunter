@@ -62,7 +62,7 @@ find "$search_directory" -name "package-lock.json" -o -name "yarn.lock" -o -name
     echo "Scanning $lock_file"
     for package in $package_names; do
         if grep -q "$package" "$lock_file"; then
-            echo "Found package '$package' in $lock_file" >> "$temp_file"
+            echo -e "\e[31mFound package\e[0m '$package' in $lock_file" >> "$temp_file"
         fi
     done
 done
@@ -72,9 +72,11 @@ if [ -s "$temp_file" ]; then
     echo ""
     echo "Scan results:"
     cat "$temp_file"
+    echo ""
 else
     echo ""
-    echo "No packages found in any package-lock.json, yarn.lock, or pnpm-lock.yaml files."
+    echo -e "\e[32mOK: \e[0mNo packages found in any package-lock.json, yarn.lock, or pnpm-lock.yaml files."
+    echo ""
 fi
 
 # Clean up
