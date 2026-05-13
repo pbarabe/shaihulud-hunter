@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+####################################################################################################
 #
 # Name:
 #   shaihulud-hunter.sh
@@ -8,8 +9,11 @@
 #   name in the parent directory.
 #
 #   The affected-packages.json file was created from the list of known, affected
-#   packages published by reversinglabs.com at
+#   packages published by reversinglabs.com:
 #   https://www.reversinglabs.com/blog/shai-hulud-worm-npm
+#
+#   It was later augmented with additional packages identified in the Mini Shai Hulut compromise:
+#   https://socket.dev/supply-chain-attacks/mini-shai-hulud
 #
 # Prerequites:
 #   bash, jq
@@ -21,11 +25,20 @@
 #   Patrick Barabe <pbarabe@arizona.edu>
 #
 # Modification log:
-#   23 Sep 2025 - Initial creation
-#   24 Sep 2025 - Refine logic to evaluate only package-lock.json files
+#   23 Sep 2025
+#     - Initial creation
+#
+#   24 Sep 2025
+#     - Refine logic to evaluate only package-lock.json files
+#
+#   12 May 2026
+#     - Modified to also check for Mini Shai Hulud compromised packages
+#     - Updated to accept alternate path to affected-packages.json file
+#
+####################################################################################################
 
 # Check if the correct number of arguments is provided
-if [ "$#" -ne 1 ]; then
+if [ "$#" -lt 1 ]; then
     echo "Usage: $0 <directory_name> {affected-packages.json}"
     echo "       Search <directory_name> using patterns from optional {affected-packages.json}"
     echo ""
@@ -40,16 +53,29 @@ if ! command -v jq &> /dev/null; then
     exit 1
 fi
 
+# Check if we're running in test mode
+search_directory="$1"
+if [ "$1" == "-t" ]; then
+  search_directory=$(dirname -- $(readlink -fn -- "$0"; echo x))
+  echo "NOTICE: Running in test mode..."
+  echo "Scanning '$search_directory/test/'."
+fi
+
 # Get location of this script
 script_directory=$(dirname -- $(readlink -fn -- "$0"; echo x))
 
-# Assign arguments to variables
-search_directory="$1"
-packages_file="${2:-$script_directory/affected-packages.json}"
+# Get affected packages file
+packages_file="${script_directory}/affected-packages.json"
 
-if [ "$1" == "-t" ]; then
-  search_directory=$(dirname -- $(readlink -fn -- "$0"; echo x))
+if [ "$#" -gt 1 ] && [ ! -z "$2" ]; then
+    if [ -f "$2" ]; then
+        packages_file="$2"
+    else
+        echo "NOTICE: Requested affected packages file '$2' does not exist."
+    fi
 fi
+
+echo "Using affected packages file: '$packages_file'"
 
 # Extract package names from the JSON file
 package_names=$(jq -r '.[].package' "$packages_file")
@@ -62,7 +88,7 @@ find "$search_directory" -name "package-lock.json" -o -name "yarn.lock" -o -name
     echo "Scanning $lock_file"
     for package in $package_names; do
         if grep -q "$package" "$lock_file"; then
-            echo -e "\e[31mFound package\e[0m '$package' in $lock_file" >> "$temp_file"
+            echo -e "\e[31mPossible match for package\e[0m '$package' in $lock_file" >> "$temp_file"
         fi
     done
 done
@@ -71,7 +97,10 @@ done
 if [ -s "$temp_file" ]; then
     echo ""
     echo "Scan results:"
-    cat "$temp_file"
+    sort "$temp_file" | uniq
+    echo ""
+    echo -e "\e[31mIMPORTANT:\e[0m Double-check matched files for affected packages and versions."
+    echo "           False positives are possible, so review carefully."
     echo ""
 else
     echo ""

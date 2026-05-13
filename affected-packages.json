@@ -1,2106 +1,4677 @@
 [
   {
+    "compromise": "Shai-Hulud",
     "package": "@ahmedhfarag/ngx-perfect-scrollbar",
     "version": "20.0.20"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ahmedhfarag/ngx-virtual-scroller",
     "version": "4.0.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/common",
     "version": "2.0.28"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/config-eslint",
     "version": "2.0.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/config-eslint",
     "version": "2.0.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/config-ts",
     "version": "2.0.7"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/config-ts",
     "version": "2.0.8"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/db-context",
     "version": "2.0.24"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/di-node",
     "version": "2.0.13"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/di",
     "version": "2.0.28"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/di",
     "version": "2.0.32"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/eslint",
     "version": "1.0.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/eslint",
     "version": "1.0.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/fastify-http-server",
     "version": "2.0.24"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/fastify-http-server",
     "version": "2.0.27"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/http-server",
     "version": "2.0.21"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/http-server",
     "version": "2.0.25"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/openapi",
     "version": "0.1.12"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/openapi",
     "version": "0.1.9"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/package-base",
     "version": "1.0.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/package-base",
     "version": "1.0.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/prettier",
     "version": "1.0.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/prettier",
     "version": "1.0.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/slf",
     "version": "2.0.15"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/slf",
     "version": "2.0.22"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/ssl-info",
     "version": "1.0.10"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/ssl-info",
     "version": "1.0.9"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/web-app",
     "version": "1.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@art-ws/web-app",
     "version": "1.0.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@crowdstrike/commitlint",
     "version": "8.1.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@crowdstrike/commitlint",
     "version": "8.1.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@crowdstrike/falcon-shoelace",
     "version": "0.4.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@crowdstrike/falcon-shoelace",
     "version": "0.4.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@crowdstrike/foundry-js",
     "version": "0.19.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@crowdstrike/foundry-js",
     "version": "0.19.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@crowdstrike/glide-core",
     "version": "0.34.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@crowdstrike/glide-core",
     "version": "0.34.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@crowdstrike/logscale-dashboard",
     "version": "1.205.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@crowdstrike/logscale-dashboard",
     "version": "1.205.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@crowdstrike/logscale-file-editor",
     "version": "1.205.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@crowdstrike/logscale-file-editor",
     "version": "1.205.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@crowdstrike/logscale-parser-edit",
     "version": "1.205.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@crowdstrike/logscale-parser-edit",
     "version": "1.205.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@crowdstrike/logscale-search",
     "version": "1.205.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@crowdstrike/logscale-search",
     "version": "1.205.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@crowdstrike/tailwind-toucan-base",
     "version": "5.0.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@crowdstrike/tailwind-toucan-base",
     "version": "5.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/deluge",
     "version": "7.2.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/deluge",
     "version": "7.2.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/golang-template",
     "version": "1.4.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/golang-template",
     "version": "1.4.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/magnet-link",
     "version": "4.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/magnet-link",
     "version": "4.0.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/ngx-codemirror",
     "version": "7.0.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/ngx-codemirror",
     "version": "7.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/ngx-csv",
     "version": "6.0.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/ngx-csv",
     "version": "6.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/ngx-emoji-mart",
     "version": "9.2.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/ngx-emoji-mart",
     "version": "9.2.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/ngx-rightclick",
     "version": "4.0.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/ngx-rightclick",
     "version": "4.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/qbittorrent",
     "version": "9.7.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/qbittorrent",
     "version": "9.7.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/react-adsense",
     "version": "2.0.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/react-adsense",
     "version": "2.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/shared-torrent",
     "version": "6.3.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/shared-torrent",
     "version": "6.3.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/tinycolor",
     "version": "4.1.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/tinycolor",
     "version": "4.1.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/torrent-file",
     "version": "4.1.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/torrent-file",
     "version": "4.1.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/transmission",
     "version": "7.3.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/ts-base32",
     "version": "4.0.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ctrl/ts-base32",
     "version": "4.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@hestjs/core",
     "version": "0.2.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@hestjs/cqrs",
     "version": "0.1.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@hestjs/demo",
     "version": "0.1.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@hestjs/eslint-config",
     "version": "0.1.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@hestjs/logger",
     "version": "0.1.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@hestjs/scalar",
     "version": "0.1.7"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@hestjs/validation",
     "version": "0.1.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/arraybuffers",
     "version": "1.1.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/arraybuffers",
     "version": "1.1.7"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/arraybuffers",
     "version": "1.1.8"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/gesturehandler",
     "version": "2.0.35"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/perms",
     "version": "3.0.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/perms",
     "version": "3.0.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/perms",
     "version": "3.0.7"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/perms",
     "version": "3.0.8"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/perms",
     "version": "3.0.9"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/sentry",
     "version": "4.6.43"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/sqlite",
     "version": "3.5.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/sqlite",
     "version": "3.5.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/sqlite",
     "version": "3.5.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/sqlite",
     "version": "3.5.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/text",
     "version": "1.6.10"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/text",
     "version": "1.6.11"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/text",
     "version": "1.6.12"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/text",
     "version": "1.6.13"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/text",
     "version": "1.6.9"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/typeorm",
     "version": "0.2.30"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/typeorm",
     "version": "0.2.31"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/typeorm",
     "version": "0.2.32"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/typeorm",
     "version": "0.2.33"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-collectionview",
     "version": "6.0.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-document-picker",
     "version": "1.1.27"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-document-picker",
     "version": "1.1.28"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-drawer",
     "version": "0.1.30"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-image",
     "version": "4.5.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-label",
     "version": "1.3.35"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-label",
     "version": "1.3.36"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-label",
     "version": "1.3.37"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-bottom-navigation",
     "version": "7.2.72"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-bottom-navigation",
     "version": "7.2.73"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-bottom-navigation",
     "version": "7.2.74"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-bottom-navigation",
     "version": "7.2.75"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-bottomsheet",
     "version": "7.2.72"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-core-tabs",
     "version": "7.2.72"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-core-tabs",
     "version": "7.2.73"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-core-tabs",
     "version": "7.2.74"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-core-tabs",
     "version": "7.2.75"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-core-tabs",
     "version": "7.2.76"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-core",
     "version": "7.2.72"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-core",
     "version": "7.2.73"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-core",
     "version": "7.2.74"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-core",
     "version": "7.2.75"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-core",
     "version": "7.2.76"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-ripple",
     "version": "7.2.72"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-ripple",
     "version": "7.2.73"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-ripple",
     "version": "7.2.74"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-ripple",
     "version": "7.2.75"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-tabs",
     "version": "7.2.72"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-tabs",
     "version": "7.2.73"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-tabs",
     "version": "7.2.74"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-material-tabs",
     "version": "7.2.75"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-pager",
     "version": "14.1.36"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-pager",
     "version": "14.1.37"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-pager",
     "version": "14.1.38"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-pulltorefresh",
     "version": "2.5.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-pulltorefresh",
     "version": "2.5.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-pulltorefresh",
     "version": "2.5.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nativescript-community/ui-pulltorefresh",
     "version": "2.5.7"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nexe/config-manager",
     "version": "0.1.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nexe/eslint-config",
     "version": "0.1.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nexe/logger",
     "version": "0.1.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/angular",
     "version": "20.0.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/angular",
     "version": "20.0.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/angular",
     "version": "20.0.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/focus",
     "version": "20.0.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/focus",
     "version": "20.0.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/focus",
     "version": "20.0.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/nativescript-checkbox",
     "version": "2.0.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/nativescript-checkbox",
     "version": "2.0.7"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/nativescript-checkbox",
     "version": "2.0.8"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/nativescript-checkbox",
     "version": "2.0.9"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/nativescript-loading-indicator",
     "version": "5.0.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/nativescript-loading-indicator",
     "version": "5.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/nativescript-loading-indicator",
     "version": "5.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/nativescript-loading-indicator",
     "version": "5.0.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/ui-collectionview",
     "version": "5.1.11"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/ui-collectionview",
     "version": "5.1.12"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/ui-collectionview",
     "version": "5.1.13"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/ui-collectionview",
     "version": "5.1.14"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/web-angular",
     "version": "20.0.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/web",
     "version": "20.0.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/xplat-utils",
     "version": "20.0.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/xplat-utils",
     "version": "20.0.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/xplat-utils",
     "version": "20.0.7"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/xplat",
     "version": "20.0.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/xplat",
     "version": "20.0.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@nstudio/xplat",
     "version": "20.0.7"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/board",
     "version": "9.0.35"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/board",
     "version": "9.0.36"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/board",
     "version": "9.0.37"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/board",
     "version": "9.0.38"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/board",
     "version": "9.0.39"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/board",
     "version": "9.0.40"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/board",
     "version": "9.0.41"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/board",
     "version": "9.0.42"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/board",
     "version": "9.0.43"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/board",
     "version": "9.0.44"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/board",
     "version": "9.0.45"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/board",
     "version": "9.0.46"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/board",
     "version": "9.0.47"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/board",
     "version": "9.0.48"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/board",
     "version": "9.0.49"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/board",
     "version": "9.0.50"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/board",
     "version": "9.0.51"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/data-grist",
     "version": "9.0.29"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/data-grist",
     "version": "9.0.35"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/data-grist",
     "version": "9.0.36"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/data-grist",
     "version": "9.0.37"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/graphql",
     "version": "9.0.22"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/graphql",
     "version": "9.0.35"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/graphql",
     "version": "9.0.36"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/graphql",
     "version": "9.0.37"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/graphql",
     "version": "9.0.38"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/graphql",
     "version": "9.0.39"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/graphql",
     "version": "9.0.40"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/graphql",
     "version": "9.0.41"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/graphql",
     "version": "9.0.42"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/graphql",
     "version": "9.0.43"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/graphql",
     "version": "9.0.44"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/graphql",
     "version": "9.0.45"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/graphql",
     "version": "9.0.46"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/graphql",
     "version": "9.0.47"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/graphql",
     "version": "9.0.48"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/graphql",
     "version": "9.0.49"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/graphql",
     "version": "9.0.50"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/graphql",
     "version": "9.0.51"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/headroom",
     "version": "9.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/headroom",
     "version": "9.0.35"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/headroom",
     "version": "9.0.36"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/headroom",
     "version": "9.0.37"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/help",
     "version": "9.0.35"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/help",
     "version": "9.0.36"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/help",
     "version": "9.0.37"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/help",
     "version": "9.0.38"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/help",
     "version": "9.0.39"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/help",
     "version": "9.0.40"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/help",
     "version": "9.0.41"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/help",
     "version": "9.0.42"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/help",
     "version": "9.0.43"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/help",
     "version": "9.0.44"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/help",
     "version": "9.0.45"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/help",
     "version": "9.0.46"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/help",
     "version": "9.0.47"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/help",
     "version": "9.0.48"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/help",
     "version": "9.0.49"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/help",
     "version": "9.0.50"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/help",
     "version": "9.0.51"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/i18n",
     "version": "9.0.35"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/i18n",
     "version": "9.0.36"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/i18n",
     "version": "9.0.37"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/input",
     "version": "9.0.27"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/input",
     "version": "9.0.35"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/input",
     "version": "9.0.36"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/input",
     "version": "9.0.37"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/input",
     "version": "9.0.38"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/input",
     "version": "9.0.39"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/input",
     "version": "9.0.40"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/input",
     "version": "9.0.41"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/input",
     "version": "9.0.42"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/input",
     "version": "9.0.43"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/input",
     "version": "9.0.44"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/input",
     "version": "9.0.45"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/input",
     "version": "9.0.46"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/input",
     "version": "9.0.47"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/input",
     "version": "9.0.48"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/layout",
     "version": "9.0.35"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/layout",
     "version": "9.0.36"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/layout",
     "version": "9.0.37"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/popup",
     "version": "9.0.22"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/popup",
     "version": "9.0.35"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/popup",
     "version": "9.0.36"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/popup",
     "version": "9.0.37"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/popup",
     "version": "9.0.38"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/popup",
     "version": "9.0.39"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/popup",
     "version": "9.0.40"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/popup",
     "version": "9.0.41"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/popup",
     "version": "9.0.42"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/popup",
     "version": "9.0.43"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/popup",
     "version": "9.0.44"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/popup",
     "version": "9.0.45"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/popup",
     "version": "9.0.46"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/popup",
     "version": "9.0.47"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/popup",
     "version": "9.0.48"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/popup",
     "version": "9.0.49"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/popup",
     "version": "9.0.50"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/popup",
     "version": "9.0.51"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/pull-to-refresh",
     "version": "9.0.35"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/pull-to-refresh",
     "version": "9.0.36"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/pull-to-refresh",
     "version": "9.0.37"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/pull-to-refresh",
     "version": "9.0.38"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/pull-to-refresh",
     "version": "9.0.39"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/pull-to-refresh",
     "version": "9.0.40"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/pull-to-refresh",
     "version": "9.0.41"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/pull-to-refresh",
     "version": "9.0.42"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/pull-to-refresh",
     "version": "9.0.43"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/pull-to-refresh",
     "version": "9.0.44"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/pull-to-refresh",
     "version": "9.0.45"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/pull-to-refresh",
     "version": "9.0.46"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/pull-to-refresh",
     "version": "9.0.47"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/shell",
     "version": "9.0.22"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/shell",
     "version": "9.0.35"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/shell",
     "version": "9.0.36"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/shell",
     "version": "9.0.37"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/shell",
     "version": "9.0.38"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/shell",
     "version": "9.0.39"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/styles",
     "version": "9.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/styles",
     "version": "9.0.35"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/styles",
     "version": "9.0.36"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/styles",
     "version": "9.0.37"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/utils",
     "version": "9.0.22"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/utils",
     "version": "9.0.35"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/utils",
     "version": "9.0.36"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/utils",
     "version": "9.0.37"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/utils",
     "version": "9.0.38"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/utils",
     "version": "9.0.39"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/utils",
     "version": "9.0.40"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/utils",
     "version": "9.0.41"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/utils",
     "version": "9.0.42"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/utils",
     "version": "9.0.43"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/utils",
     "version": "9.0.44"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/utils",
     "version": "9.0.45"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/utils",
     "version": "9.0.46"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/utils",
     "version": "9.0.47"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/utils",
     "version": "9.0.48"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/utils",
     "version": "9.0.49"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/utils",
     "version": "9.0.50"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@operato/utils",
     "version": "9.0.51"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@rxap/ngx-bootstrap",
     "version": "19.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@rxap/ngx-bootstrap",
     "version": "19.0.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@teriyakibomb/ember-velcro",
     "version": "2.2.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@teselagen/bio-parsers",
     "version": "0.4.30"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@teselagen/bounce-loader",
     "version": "0.3.16"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@teselagen/bounce-loader",
     "version": "0.3.17"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@teselagen/file-utils",
     "version": "0.3.22"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@teselagen/liquibase-tools",
     "version": "0.4.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@teselagen/ove",
     "version": "0.7.40"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@teselagen/range-utils",
     "version": "0.3.14"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@teselagen/range-utils",
     "version": "0.3.15"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@teselagen/react-list",
     "version": "0.8.19"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@teselagen/react-list",
     "version": "0.8.20"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@teselagen/react-table",
     "version": "6.10.19"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@teselagen/react-table",
     "version": "6.10.20"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@teselagen/react-table",
     "version": "6.10.22"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@teselagen/sequence-utils",
     "version": "0.3.34"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@teselagen/ui",
     "version": "0.9.10"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@thangved/callback-window",
     "version": "1.1.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/attachment-base",
     "version": "9.0.42"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/attachment-base",
     "version": "9.0.43"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/attachment-base",
     "version": "9.0.44"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/attachment-base",
     "version": "9.0.45"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/attachment-base",
     "version": "9.0.46"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/attachment-base",
     "version": "9.0.47"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/attachment-base",
     "version": "9.0.48"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/attachment-base",
     "version": "9.0.49"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/attachment-base",
     "version": "9.0.50"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/attachment-base",
     "version": "9.0.51"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/attachment-base",
     "version": "9.0.52"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/attachment-base",
     "version": "9.0.53"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/attachment-base",
     "version": "9.0.54"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/attachment-base",
     "version": "9.0.55"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/auth-base",
     "version": "9.0.42"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/auth-base",
     "version": "9.0.43"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/auth-base",
     "version": "9.0.44"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/auth-base",
     "version": "9.0.45"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/email-base",
     "version": "9.0.42"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/email-base",
     "version": "9.0.43"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/email-base",
     "version": "9.0.44"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/email-base",
     "version": "9.0.45"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/email-base",
     "version": "9.0.46"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/email-base",
     "version": "9.0.47"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/email-base",
     "version": "9.0.48"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/email-base",
     "version": "9.0.49"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/email-base",
     "version": "9.0.50"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/email-base",
     "version": "9.0.51"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/email-base",
     "version": "9.0.52"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/email-base",
     "version": "9.0.53"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/email-base",
     "version": "9.0.54"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/email-base",
     "version": "9.0.55"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/email-base",
     "version": "9.0.56"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/email-base",
     "version": "9.0.57"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/email-base",
     "version": "9.0.58"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/email-base",
     "version": "9.0.59"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/env",
     "version": "9.0.42"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/env",
     "version": "9.0.43"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/env",
     "version": "9.0.44"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/env",
     "version": "9.0.45"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/integration-base",
     "version": "9.0.42"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/integration-base",
     "version": "9.0.43"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/integration-base",
     "version": "9.0.44"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/integration-base",
     "version": "9.0.45"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/integration-marketplace",
     "version": "9.0.43"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/integration-marketplace",
     "version": "9.0.44"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/integration-marketplace",
     "version": "9.0.45"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/shell",
     "version": "9.0.42"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/shell",
     "version": "9.0.43"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/shell",
     "version": "9.0.44"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@things-factory/shell",
     "version": "9.0.45"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@tnf-dev/api",
     "version": "1.0.8"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@tnf-dev/core",
     "version": "1.0.8"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@tnf-dev/js",
     "version": "1.0.8"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@tnf-dev/mui",
     "version": "1.0.8"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@tnf-dev/react",
     "version": "1.0.8"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@ui-ux-gang/devextreme-angular-rpk",
     "version": "24.1.7"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@yoobic/design-system",
     "version": "6.5.17"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@yoobic/jpeg-camera-es6",
     "version": "1.0.13"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "@yoobic/yobi",
     "version": "8.7.53"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "airchief",
     "version": "0.3.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "airpilot",
     "version": "0.8.8"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "angulartics2",
     "version": "14.1.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "angulartics2",
     "version": "14.1.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "another-shai",
     "version": "1.0.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "browser-webdriver-downloader",
     "version": "3.0.8"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "capacitor-notificationhandler",
     "version": "0.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "capacitor-notificationhandler",
     "version": "0.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "capacitor-plugin-healthapp",
     "version": "0.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "capacitor-plugin-healthapp",
     "version": "0.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "capacitor-plugin-ihealth",
     "version": "1.1.8"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "capacitor-plugin-ihealth",
     "version": "1.1.9"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "capacitor-plugin-vonage",
     "version": "1.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "capacitor-plugin-vonage",
     "version": "1.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "capacitorandroidpermissions",
     "version": "0.0.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "capacitorandroidpermissions",
     "version": "0.0.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "config-cordova",
     "version": "0.8.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "cordova-plugin-voxeet2",
     "version": "1.0.24"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "cordova-voxeet",
     "version": "1.0.32"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "create-hest-app",
     "version": "0.1.9"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "db-evo",
     "version": "1.1.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "db-evo",
     "version": "1.1.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "devextreme-angular-rpk",
     "version": "21.2.8"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ember-browser-services",
     "version": "5.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ember-browser-services",
     "version": "5.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ember-headless-form-yup",
     "version": "1.0.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ember-headless-form",
     "version": "1.1.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ember-headless-form",
     "version": "1.1.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ember-headless-table",
     "version": "2.1.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ember-headless-table",
     "version": "2.1.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ember-url-hash-polyfill",
     "version": "1.0.12"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ember-url-hash-polyfill",
     "version": "1.0.13"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ember-velcro",
     "version": "2.2.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ember-velcro",
     "version": "2.2.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "encounter-playground",
     "version": "0.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "encounter-playground",
     "version": "0.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "encounter-playground",
     "version": "0.0.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "encounter-playground",
     "version": "0.0.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "eslint-config-crowdstrike-node",
     "version": "4.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "eslint-config-crowdstrike-node",
     "version": "4.0.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "eslint-config-crowdstrike",
     "version": "11.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "eslint-config-crowdstrike",
     "version": "11.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "eslint-config-teselagen",
     "version": "6.1.7"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "eslint-config-teselagen",
     "version": "6.1.8"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "globalize-rpk",
     "version": "1.7.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "graphql-sequelize-teselagen",
     "version": "5.3.8"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "graphql-sequelize-teselagen",
     "version": "5.3.9"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "html-to-base64-image",
     "version": "1.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "json-rules-engine-simplified",
     "version": "0.2.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "json-rules-engine-simplified",
     "version": "0.2.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "jumpgate",
     "version": "0.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "koa2-swagger-ui",
     "version": "5.11.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "koa2-swagger-ui",
     "version": "5.11.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "mcfly-semantic-release",
     "version": "1.3.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "mcp-knowledge-base",
     "version": "0.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "mcp-knowledge-graph",
     "version": "1.2.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "mobioffice-cli",
     "version": "1.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "monorepo-next",
     "version": "13.0.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "monorepo-next",
     "version": "13.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "mstate-angular",
     "version": "0.4.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "mstate-cli",
     "version": "0.4.7"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "mstate-dev-react",
     "version": "1.1.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "mstate-react",
     "version": "1.6.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ng2-file-upload",
     "version": "7.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ng2-file-upload",
     "version": "7.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ng2-file-upload",
     "version": "8.0.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ng2-file-upload",
     "version": "8.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ng2-file-upload",
     "version": "8.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ng2-file-upload",
     "version": "9.0.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ngx-bootstrap",
     "version": "18.1.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ngx-bootstrap",
     "version": "19.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ngx-bootstrap",
     "version": "19.0.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ngx-bootstrap",
     "version": "20.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ngx-bootstrap",
     "version": "20.0.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ngx-bootstrap",
     "version": "20.0.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ngx-color",
     "version": "10.0.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ngx-color",
     "version": "10.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ngx-toastr",
     "version": "19.0.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ngx-toastr",
     "version": "19.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ngx-trend",
     "version": "8.0.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ngx-ws",
     "version": "1.1.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ngx-ws",
     "version": "1.1.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "oradm-to-gql",
     "version": "35.0.14"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "oradm-to-gql",
     "version": "35.0.15"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "oradm-to-sqlz",
     "version": "1.1.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ove-auto-annotate",
     "version": "0.0.10"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ove-auto-annotate",
     "version": "0.0.9"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "pm2-gelf-json",
     "version": "1.0.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "pm2-gelf-json",
     "version": "1.0.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "printjs-rpk",
     "version": "1.6.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "react-complaint-image",
     "version": "0.0.32"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "react-complaint-image",
     "version": "0.0.35"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "react-jsonschema-form-conditionals",
     "version": "0.3.18"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "react-jsonschema-form-conditionals",
     "version": "0.3.21"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "react-jsonschema-form-extras",
     "version": "1.0.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "react-jsonschema-rxnt-extras",
     "version": "0.4.9"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "remark-preset-lint-crowdstrike",
     "version": "4.0.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "remark-preset-lint-crowdstrike",
     "version": "4.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "rxnt-authentication",
     "version": "0.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "rxnt-authentication",
     "version": "0.0.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "rxnt-authentication",
     "version": "0.0.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "rxnt-authentication",
     "version": "0.0.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "rxnt-healthchecks-nestjs",
     "version": "1.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "rxnt-healthchecks-nestjs",
     "version": "1.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "rxnt-healthchecks-nestjs",
     "version": "1.0.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "rxnt-healthchecks-nestjs",
     "version": "1.0.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "rxnt-kue",
     "version": "1.0.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "rxnt-kue",
     "version": "1.0.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "rxnt-kue",
     "version": "1.0.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "rxnt-kue",
     "version": "1.0.7"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "swc-plugin-component-annotate",
     "version": "1.9.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "swc-plugin-component-annotate",
     "version": "1.9.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "tbssnch",
     "version": "1.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "teselagen-interval-tree",
     "version": "1.1.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "tg-client-query-builder",
     "version": "2.14.4"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "tg-client-query-builder",
     "version": "2.14.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "tg-redbird",
     "version": "1.3.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "tg-redbird",
     "version": "1.3.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "tg-seq-gen",
     "version": "1.0.10"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "tg-seq-gen",
     "version": "1.0.9"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "thangved-react-grid",
     "version": "1.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ts-gaussian",
     "version": "3.0.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ts-gaussian",
     "version": "3.0.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ts-imports",
     "version": "1.0.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ts-imports",
     "version": "1.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "tvi-cli",
     "version": "0.1.5"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ve-bamreader",
     "version": "0.2.6"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ve-bamreader",
     "version": "0.2.7"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ve-editor",
     "version": "1.0.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "ve-editor",
     "version": "1.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "verror-extra",
     "version": "6.0.1"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "voip-callkit",
     "version": "1.0.2"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "voip-callkit",
     "version": "1.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "wdio-web-reporter",
     "version": "0.1.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "yargs-help-output",
     "version": "5.0.3"
   },
   {
+    "compromise": "Shai-Hulud",
     "package": "yoo-styles",
     "version": "6.0.326"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "intercom-client",
+    "version": "7.0.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@opensearch-project/opensearch",
+    "version": "3.5.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@opensearch-project/opensearch",
+    "version": "3.8.0"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@opensearch-project/opensearch",
+    "version": "3.7.0"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@opensearch-project/opensearch",
+    "version": "3.6.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/icao-registry-data",
+    "version": "0.8.8"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airport-data",
+    "version": "0.7.8"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "cross-stitch",
+    "version": "1.1.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/procedure-data",
+    "version": "0.7.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airspace-data",
+    "version": "0.5.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/fix-data",
+    "version": "0.6.8"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airway-data",
+    "version": "0.5.8"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/mcp",
+    "version": "0.9.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/weather",
+    "version": "0.5.10"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/procedures",
+    "version": "0.5.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/flightplan",
+    "version": "0.5.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/units",
+    "version": "0.4.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/fixes",
+    "version": "0.3.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/flight-math",
+    "version": "0.5.8"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/navaids",
+    "version": "0.4.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airspace",
+    "version": "0.8.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "ts-dna",
+    "version": "3.0.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/geo",
+    "version": "0.4.8"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/types",
+    "version": "0.8.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airports",
+    "version": "0.6.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/notams",
+    "version": "0.3.10"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/icao-registry",
+    "version": "0.5.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/navaid-data",
+    "version": "0.6.8"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airways",
+    "version": "0.4.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "wot-api",
+    "version": "0.8.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/icao-registry-data",
+    "version": "0.8.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airspace-data",
+    "version": "0.5.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/fix-data",
+    "version": "0.6.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/procedure-data",
+    "version": "0.7.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/navaid-data",
+    "version": "0.6.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airway-data",
+    "version": "0.5.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/procedures",
+    "version": "0.5.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airways",
+    "version": "0.4.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/geo",
+    "version": "0.4.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airports",
+    "version": "0.6.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/icao-registry",
+    "version": "0.5.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "cross-stitch",
+    "version": "1.1.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airspace",
+    "version": "0.8.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/flight-math",
+    "version": "0.5.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airport-data",
+    "version": "0.7.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/mcp",
+    "version": "0.9.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/units",
+    "version": "0.4.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/weather",
+    "version": "0.5.9"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/flightplan",
+    "version": "0.5.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/notams",
+    "version": "0.3.9"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "ts-dna",
+    "version": "3.0.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/types",
+    "version": "0.8.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/fixes",
+    "version": "0.3.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/navaids",
+    "version": "0.4.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@beproduct/nestjs-auth",
+    "version": "0.1.19"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "git-branch-selector",
+    "version": "1.3.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "nextmove-mcp",
+    "version": "0.1.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tolka/cli",
+    "version": "1.0.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "git-git-git",
+    "version": "1.0.12"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@supersurkhet/sdk",
+    "version": "0.0.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@taskflow-corp/cli",
+    "version": "0.1.29"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "cmux-agent-mcp",
+    "version": "0.1.8"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@supersurkhet/cli",
+    "version": "0.0.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/storage-sqlite",
+    "version": "0.2.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/database",
+    "version": "1.0.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/connector-vendure",
+    "version": "1.0.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/connector-woocommerce",
+    "version": "1.0.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/components",
+    "version": "1.0.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/theme",
+    "version": "0.2.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/core",
+    "version": "0.2.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/connector-shopify",
+    "version": "1.0.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/connector-medusa",
+    "version": "1.0.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/pos",
+    "version": "0.1.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "wot-api",
+    "version": "0.8.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "cross-stitch",
+    "version": "1.1.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/procedure-data",
+    "version": "0.7.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/icao-registry-data",
+    "version": "0.8.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/types",
+    "version": "0.8.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airspace-data",
+    "version": "0.5.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/navaid-data",
+    "version": "0.6.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airport-data",
+    "version": "0.7.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/mcp",
+    "version": "0.9.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airways",
+    "version": "0.4.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/geo",
+    "version": "0.4.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/fix-data",
+    "version": "0.6.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airspace",
+    "version": "0.8.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airports",
+    "version": "0.6.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airway-data",
+    "version": "0.5.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/notams",
+    "version": "0.3.8"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/icao-registry",
+    "version": "0.5.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/flightplan",
+    "version": "0.5.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/flight-math",
+    "version": "0.5.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "ts-dna",
+    "version": "3.0.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/weather",
+    "version": "0.5.8"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/units",
+    "version": "0.4.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/procedures",
+    "version": "0.5.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/fixes",
+    "version": "0.3.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/navaids",
+    "version": "0.4.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@beproduct/nestjs-auth",
+    "version": "0.1.18"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tolka/cli",
+    "version": "1.0.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "git-branch-selector",
+    "version": "1.3.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "nextmove-mcp",
+    "version": "0.1.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "git-git-git",
+    "version": "1.0.11"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@mistralai/mistralai",
+    "version": "2.2.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@mistralai/mistralai-azure",
+    "version": "1.7.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@mistralai/mistralai-gcp",
+    "version": "1.7.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@mistralai/mistralai",
+    "version": "2.2.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@mistralai/mistralai-gcp",
+    "version": "1.7.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@mistralai/mistralai-azure",
+    "version": "1.7.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@supersurkhet/cli",
+    "version": "0.0.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "cmux-agent-mcp",
+    "version": "0.1.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@taskflow-corp/cli",
+    "version": "0.1.28"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@supersurkhet/sdk",
+    "version": "0.0.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/storage-sqlite",
+    "version": "0.2.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/connector-vendure",
+    "version": "1.0.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/connector-medusa",
+    "version": "1.0.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/database",
+    "version": "1.0.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/connector-shopify",
+    "version": "1.0.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/pos",
+    "version": "0.1.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/components",
+    "version": "1.0.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/core",
+    "version": "0.2.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/theme",
+    "version": "0.2.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/connector-woocommerce",
+    "version": "1.0.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "wot-api",
+    "version": "0.8.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "cross-stitch",
+    "version": "1.1.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airport-data",
+    "version": "0.7.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airway-data",
+    "version": "0.5.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/flight-math",
+    "version": "0.5.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/fix-data",
+    "version": "0.6.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/types",
+    "version": "0.8.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/mcp",
+    "version": "0.9.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/icao-registry-data",
+    "version": "0.8.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/notams",
+    "version": "0.3.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/procedure-data",
+    "version": "0.7.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/weather",
+    "version": "0.5.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/navaid-data",
+    "version": "0.6.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/units",
+    "version": "0.4.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airspace-data",
+    "version": "0.5.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "ts-dna",
+    "version": "3.0.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/flightplan",
+    "version": "0.5.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/geo",
+    "version": "0.4.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airways",
+    "version": "0.4.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/procedures",
+    "version": "0.5.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airspace",
+    "version": "0.8.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/fixes",
+    "version": "0.3.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/icao-registry",
+    "version": "0.5.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/navaids",
+    "version": "0.4.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airports",
+    "version": "0.6.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@beproduct/nestjs-auth",
+    "version": "0.1.17"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "nextmove-mcp",
+    "version": "0.1.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "git-branch-selector",
+    "version": "1.3.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "git-git-git",
+    "version": "1.0.10"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tolka/cli",
+    "version": "1.0.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@mistralai/mistralai",
+    "version": "2.2.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@mistralai/mistralai-gcp",
+    "version": "1.7.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@mistralai/mistralai-azure",
+    "version": "1.7.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@mesadev/saguaro",
+    "version": "0.4.22"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@mesadev/rest",
+    "version": "0.28.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@mesadev/sdk",
+    "version": "0.28.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "wot-api",
+    "version": "0.8.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "cross-stitch",
+    "version": "1.1.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/icao-registry-data",
+    "version": "0.8.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airspace-data",
+    "version": "0.5.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/units",
+    "version": "0.4.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/fix-data",
+    "version": "0.6.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/procedure-data",
+    "version": "0.7.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airway-data",
+    "version": "0.5.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/notams",
+    "version": "0.3.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/weather",
+    "version": "0.5.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/geo",
+    "version": "0.4.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/mcp",
+    "version": "0.9.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airport-data",
+    "version": "0.7.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airways",
+    "version": "0.4.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/navaids",
+    "version": "0.4.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/flight-math",
+    "version": "0.5.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/types",
+    "version": "0.8.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "ts-dna",
+    "version": "3.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/procedures",
+    "version": "0.5.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/flightplan",
+    "version": "0.5.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/fixes",
+    "version": "0.3.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airspace",
+    "version": "0.8.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/navaid-data",
+    "version": "0.6.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/icao-registry",
+    "version": "0.5.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@squawk/airports",
+    "version": "0.6.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "git-branch-selector",
+    "version": "1.3.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "nextmove-mcp",
+    "version": "0.1.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "git-git-git",
+    "version": "1.0.9"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tolka/cli",
+    "version": "1.0.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/core",
+    "version": "0.2.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/connector-shopify",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/pos",
+    "version": "0.1.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/database",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/connector-medusa",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/theme",
+    "version": "0.2.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/connector-vendure",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/connector-woocommerce",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/components",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tallyui/storage-sqlite",
+    "version": "0.2.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/apollo-core",
+    "version": "5.9.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/apollo-react",
+    "version": "4.24.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/ap-chat",
+    "version": "1.5.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/flow-tool",
+    "version": "1.0.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/solutionpackager-sdk",
+    "version": "1.0.11"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/case-tool",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/agent-sdk",
+    "version": "1.0.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/maestro-tool",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/robot",
+    "version": "1.3.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/vss",
+    "version": "0.1.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/integrationservice-tool",
+    "version": "1.0.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/solution-tool",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/agent-tool",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/maestro-sdk",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/access-policy-sdk",
+    "version": "0.3.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/packager-tool-workflowcompiler",
+    "version": "0.0.16"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/rpa-tool",
+    "version": "0.9.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/data-fabric-tool",
+    "version": "1.0.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/agent.sdk",
+    "version": "0.0.18"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/project-packager",
+    "version": "1.1.16"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/apollo-wind",
+    "version": "2.16.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/widget.sdk",
+    "version": "1.2.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/orchestrator-tool",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/common",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/packager-tool-connector",
+    "version": "0.0.19"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/functions-tool",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/tasks-tool",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/cli",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/packager-tool-flow",
+    "version": "0.0.19"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/test-manager-tool",
+    "version": "1.0.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/integrationservice-sdk",
+    "version": "1.0.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/packager-tool-apiworkflow",
+    "version": "0.0.19"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/solutionpackager-tool-core",
+    "version": "0.0.34"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/insights-sdk",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/vertical-solutions-tool",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/rpa-legacy-tool",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/insights-tool",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/solution-packager",
+    "version": "0.0.35"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/auth",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/api-workflow-tool",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/llmgw-tool",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/resources-tool",
+    "version": "0.1.11"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/packager-tool-workflowcompiler-browser",
+    "version": "0.0.34"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/ui-widgets-multi-file-upload",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/platform-tool",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/codedagents-tool",
+    "version": "0.1.12"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/admin-tool",
+    "version": "0.1.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/tool-workflowcompiler",
+    "version": "0.0.12"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/telemetry",
+    "version": "0.0.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/codedagent-tool",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/resourcecatalog-tool",
+    "version": "0.1.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/codedapp-tool",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/aops-policy-tool",
+    "version": "0.3.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/resource-tool",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/identity-tool",
+    "version": "0.1.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/gov-tool",
+    "version": "0.3.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/access-policy-tool",
+    "version": "0.3.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/packager-tool-bpmn",
+    "version": "0.0.9"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/packager-tool-case",
+    "version": "0.0.9"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/packager-tool-webapp",
+    "version": "1.0.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/traces-tool",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/packager-tool-functions",
+    "version": "0.1.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/docsai-tool",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/filesystem",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/context-grounding-tool",
+    "version": "0.1.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@uipath/uipath-python-bridge",
+    "version": "1.0.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@beproduct/nestjs-auth",
+    "version": "0.1.16"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@beproduct/nestjs-auth",
+    "version": "0.1.15"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@beproduct/nestjs-auth",
+    "version": "0.1.14"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@beproduct/nestjs-auth",
+    "version": "0.1.13"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@beproduct/nestjs-auth",
+    "version": "0.1.12"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@beproduct/nestjs-auth",
+    "version": "0.1.11"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@beproduct/nestjs-auth",
+    "version": "0.1.10"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@beproduct/nestjs-auth",
+    "version": "0.1.9"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@beproduct/nestjs-auth",
+    "version": "0.1.8"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@beproduct/nestjs-auth",
+    "version": "0.1.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@beproduct/nestjs-auth",
+    "version": "0.1.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@beproduct/nestjs-auth",
+    "version": "0.1.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@beproduct/nestjs-auth",
+    "version": "0.1.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@beproduct/nestjs-auth",
+    "version": "0.1.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@beproduct/nestjs-auth",
+    "version": "0.1.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@dirigible-ai/sdk",
+    "version": "0.6.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@ml-toolkit-ts/preprocessing",
+    "version": "1.0.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@ml-toolkit-ts/xgboost",
+    "version": "1.0.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "agentwork-cli",
+    "version": "0.1.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "ml-toolkit-ts",
+    "version": "1.0.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@ml-toolkit-ts/preprocessing",
+    "version": "1.0.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@ml-toolkit-ts/xgboost",
+    "version": "1.0.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "agentwork-cli",
+    "version": "0.1.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@dirigible-ai/sdk",
+    "version": "0.6.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "ml-toolkit-ts",
+    "version": "1.0.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "cmux-agent-mcp",
+    "version": "0.1.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@supersurkhet/cli",
+    "version": "0.0.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@supersurkhet/sdk",
+    "version": "0.0.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@taskflow-corp/cli",
+    "version": "0.1.27"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "cmux-agent-mcp",
+    "version": "0.1.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@supersurkhet/sdk",
+    "version": "0.0.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@supersurkhet/cli",
+    "version": "0.0.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@taskflow-corp/cli",
+    "version": "0.1.26"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@draftauth/core",
+    "version": "0.13.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "safe-action",
+    "version": "0.8.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@draftauth/client",
+    "version": "0.2.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@draftlab/auth",
+    "version": "0.24.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@draftlab/auth-router",
+    "version": "0.5.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@draftlab/db",
+    "version": "0.16.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@draftlab/auth",
+    "version": "0.24.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@draftauth/client",
+    "version": "0.2.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@draftauth/core",
+    "version": "0.13.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@draftlab/db",
+    "version": "0.16.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "safe-action",
+    "version": "0.8.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@draftlab/auth-router",
+    "version": "0.5.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@taskflow-corp/cli",
+    "version": "0.1.25"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "cmux-agent-mcp",
+    "version": "0.1.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@supersurkhet/cli",
+    "version": "0.0.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@supersurkhet/sdk",
+    "version": "0.0.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "cmux-agent-mcp",
+    "version": "0.1.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@taskflow-corp/cli",
+    "version": "0.1.24"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@supersurkhet/sdk",
+    "version": "0.0.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@supersurkhet/cli",
+    "version": "0.0.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "git-branch-selector",
+    "version": "1.3.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "git-git-git",
+    "version": "1.0.8"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tolka/cli",
+    "version": "1.0.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "nextmove-mcp",
+    "version": "0.1.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/solid-router",
+    "version": "1.169.8"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/router-core",
+    "version": "1.169.8"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/start-plugin-core",
+    "version": "1.169.26"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/react-router",
+    "version": "1.169.8"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/vue-router",
+    "version": "1.169.8"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/router-plugin",
+    "version": "1.167.41"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/eslint-plugin-start",
+    "version": "0.0.7"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/router-generator",
+    "version": "1.166.48"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/start-client-core",
+    "version": "1.168.8"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/eslint-plugin-router",
+    "version": "1.161.12"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/react-start",
+    "version": "1.167.71"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/react-start-rsc",
+    "version": "0.0.50"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/start-server-core",
+    "version": "1.167.36"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/solid-start",
+    "version": "1.167.68"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/router-devtools-core",
+    "version": "1.167.9"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/router-ssr-query-core",
+    "version": "1.168.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/vue-start",
+    "version": "1.167.64"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/router-cli",
+    "version": "1.166.49"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/react-start-client",
+    "version": "1.166.54"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/router-utils",
+    "version": "1.161.14"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/solid-router-devtools",
+    "version": "1.166.19"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/nitro-v2-vite-plugin",
+    "version": "1.154.15"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/valibot-adapter",
+    "version": "1.166.15"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/react-router-devtools",
+    "version": "1.166.19"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/virtual-file-routes",
+    "version": "1.161.13"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/solid-start-server",
+    "version": "1.166.57"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/solid-start-client",
+    "version": "1.166.53"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/vue-start-server",
+    "version": "1.166.53"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/vue-router-devtools",
+    "version": "1.166.19"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/react-start-server",
+    "version": "1.166.58"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/arktype-adapter",
+    "version": "1.166.15"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/start-static-server-functions",
+    "version": "1.166.47"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/history",
+    "version": "1.161.12"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/react-router-ssr-query",
+    "version": "1.166.18"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/vue-start-client",
+    "version": "1.166.49"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/start-fn-stubs",
+    "version": "1.161.12"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/vue-router-ssr-query",
+    "version": "1.166.18"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/router-devtools",
+    "version": "1.166.19"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/start-storage-context",
+    "version": "1.166.41"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/router-vite-plugin",
+    "version": "1.166.56"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/solid-router-ssr-query",
+    "version": "1.166.18"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/zod-adapter",
+    "version": "1.166.15"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/start-plugin-core",
+    "version": "1.169.23"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/solid-router",
+    "version": "1.169.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/router-core",
+    "version": "1.169.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/vue-router",
+    "version": "1.169.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/react-start",
+    "version": "1.167.68"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/react-router",
+    "version": "1.169.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/start-client-core",
+    "version": "1.168.5"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/router-plugin",
+    "version": "1.167.38"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/router-generator",
+    "version": "1.166.45"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/eslint-plugin-start",
+    "version": "0.0.4"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/react-start-rsc",
+    "version": "0.0.47"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/solid-start",
+    "version": "1.167.65"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/router-ssr-query-core",
+    "version": "1.168.3"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/eslint-plugin-router",
+    "version": "1.161.9"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/router-cli",
+    "version": "1.166.46"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/virtual-file-routes",
+    "version": "1.161.10"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/vue-start-server",
+    "version": "1.166.50"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/start-server-core",
+    "version": "1.167.33"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/router-devtools-core",
+    "version": "1.167.6"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/vue-start",
+    "version": "1.167.61"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/react-start-server",
+    "version": "1.166.55"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/start-static-server-functions",
+    "version": "1.166.44"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/start-fn-stubs",
+    "version": "1.161.9"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/react-router-devtools",
+    "version": "1.166.16"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/start-storage-context",
+    "version": "1.166.38"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/solid-router-devtools",
+    "version": "1.166.16"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/vue-router-ssr-query",
+    "version": "1.166.15"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/arktype-adapter",
+    "version": "1.166.12"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/router-devtools",
+    "version": "1.166.16"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/solid-start-client",
+    "version": "1.166.50"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/solid-start-server",
+    "version": "1.166.54"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/react-start-client",
+    "version": "1.166.51"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/vue-start-client",
+    "version": "1.166.46"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/solid-router-ssr-query",
+    "version": "1.166.15"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/router-utils",
+    "version": "1.161.11"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/vue-router-devtools",
+    "version": "1.166.16"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/router-vite-plugin",
+    "version": "1.166.53"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/history",
+    "version": "1.161.9"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/nitro-v2-vite-plugin",
+    "version": "1.154.12"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/zod-adapter",
+    "version": "1.166.12"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/valibot-adapter",
+    "version": "1.166.12"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@tanstack/react-router-ssr-query",
+    "version": "1.166.15"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@cap-js/postgres",
+    "version": "2.2.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@cap-js/db-service",
+    "version": "2.10.1"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "@cap-js/sqlite",
+    "version": "2.2.2"
+  },
+  {
+    "compromise": "Mini Shai-Hulud",
+    "package": "mbt",
+    "version": "1.2.48"
   }
 ]
